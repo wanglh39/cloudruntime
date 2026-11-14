@@ -14,13 +14,13 @@
 
 | 模块 | 主题 | 核心问题 |
 |------|------|---------|
-| 模块 0 | [全局概览](docs/00-overview/) | Cloud Runtime 是什么？为什么需要它？ |
-| 模块 1 | [隔离与沙箱](docs/01-isolation/) | 如何在同一台机器上安全运行互不信任的程序？ |
-| 模块 2 | [调度](docs/02-scheduling/) | 如何决定哪个任务在哪个资源上运行？ |
-| 模块 3 | [网络](docs/03-networking/) | 沙箱如何与外界通信？ |
-| 模块 4 | [存储](docs/04-storage/) | 沙箱如何持久化数据？ |
-| 模块 5 | [FaaS](docs/05-faas/) | 如何实现函数即服务？ |
-| 模块 6 | [控制面](docs/06-control-plane/) | 如何管理整个系统的生命周期？ |
+| 模块 0 | [全局概览](00-overview/index.md) | Cloud Runtime 是什么？为什么需要它？ |
+| 模块 1 | [隔离与沙箱](01-isolation/index.md) | 如何在同一台机器上安全运行互不信任的程序？ |
+| 模块 2 | [调度](02-scheduling/index.md) | 如何决定哪个任务在哪个资源上运行？ |
+| 模块 3 | [网络](03-networking/index.md) | 沙箱如何与外界通信？ |
+| 模块 4 | [存储](04-storage/index.md) | 沙箱如何持久化数据？ |
+| 模块 5 | [FaaS](05-faas/index.md) | 如何实现函数即服务？ |
+| 模块 6 | [控制面](06-control-plane/index.md) | 如何管理整个系统的生命周期？ |
 
 ## 快速开始
 
